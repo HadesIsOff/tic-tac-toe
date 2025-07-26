@@ -25,7 +25,7 @@ Thank you for considering contributing to this project! We welcome all kinds of 
 
 1. **Fork and Clone**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/hades-tic-tac-toe.git
+   git clone https://github.com/HadesIsOff/hades-tic-tac-toe.git
    cd hades-tic-tac-toe
    ```
 

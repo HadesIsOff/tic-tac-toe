@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YOUR_USERNAME/hades-tic-tac-toe.git"
+    "url": "git+https://github.com/HadesIsOff/hades-tic-tac-toe.git"
   },
   "keywords": [
     "tic-tac-toe",
@@ -30,12 +30,12 @@
     "sound-effects",
     "animations"
   ],
-  "author": "Your Name <your.email@example.com>",
+  "author": "HadesIsOff",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/YOUR_USERNAME/hades-tic-tac-toe/issues"
+    "url": "https://github.com/HadesIsOff/hades-tic-tac-toe/issues"
   },
-  "homepage": "https://YOUR_USERNAME.github.io/hades-tic-tac-toe/",
+  "homepage": "https://HadesIsOff.github.io/hades-tic-tac-toe/",
   "engines": {
     "node": ">=14.0.0"
   },

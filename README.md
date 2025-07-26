@@ -1,6 +1,6 @@
 # 🎮 Hades - Tic Tac Toe
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Play%20Now-brightgreen)](https://your-username.github.io/hades-tic-tac-toe/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Play%20Now-brightgreen)](https://hadesisoff.github.io/hades-tic-tac-toe/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -31,27 +31,7 @@
 
 ## 🕹️ Play Online
 
-**[🎮 Click here to play the game!](https://your-username.github.io/hades-tic-tac-toe/)**
-
-*Replace with your actual GitHub Pages URL*
-
----
-
-## 📸 Screenshots
-
-<details>
-<summary>Click to view screenshots</summary>
-
-### Main Game Interface
-![Main Game](https://via.placeholder.com/600x400/000000/FFFFFF?text=Main+Game+Interface)
-
-### Difficulty Selection
-![Difficulty](https://via.placeholder.com/600x300/000000/FFFFFF?text=Difficulty+Selection)
-
-### Win Celebration
-![Win Animation](https://via.placeholder.com/600x400/000000/FFFFFF?text=Win+Celebration+with+Confetti)
-
-</details>
+**[🎮 Click here to play the game!](https://hadesisoff.github.io/hades-tic-tac-toe/)**
 
 ---
 
@@ -59,7 +39,7 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/hades-tic-tac-toe.git
+git clone https://github.com/HadesIsOff/hades-tic-tac-toe.git
 cd hades-tic-tac-toe
 ```
 
@@ -198,11 +178,9 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 📬 Contact
 
-Created by **[Your Name]** - feel free to contact me!
+Created by **HadesIsOff** - feel free to contact me!
 
-- 🐙 GitHub: [@your-username](https://github.com/your-username)
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
-- 📧 Email: your.email@example.com
+- 🐙 GitHub: [@HadesIsOff](https://github.com/HadesIsOff)
 
 ---
 
@@ -210,7 +188,7 @@ Created by **[Your Name]** - feel free to contact me!
 
 **⭐ Star this repo if you enjoyed the game! ⭐**
 
-[![GitHub stars](https://img.shields.io/github/stars/your-username/hades-tic-tac-toe?style=social)](https://github.com/your-username/hades-tic-tac-toe/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/HadesIsOff/hades-tic-tac-toe?style=social)](https://github.com/HadesIsOff/hades-tic-tac-toe/stargazers)
 
 *Made with ❤️ and JavaScript*
 
