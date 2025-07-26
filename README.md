@@ -8,8 +8,6 @@
 > **A modern, AI-powered Tic-Tac-Toe game with personality!** 🤖💬  
 > Features adjustable difficulty levels, sound effects, win celebrations, and a trash-talking AI opponent.
 
-![Game Screenshot](https://via.placeholder.com/800x400/000000/FFFFFF?text=🎮+Hades+Tic-Tac-Toe+Game+Screenshot)
-
 ---
 
 ## ✨ Features
@@ -31,7 +29,7 @@
 
 ## 🕹️ Play Online
 
-**[🎮 Click here to play the game!](https://hadesisoff.github.io/hades-tic-tac-toe/)**
+**[🎮 Click here to play the game!](https://hadesisoff.github.io/tic-tac-toe/)**
 
 ---
 
@@ -39,8 +37,8 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/HadesIsOff/hades-tic-tac-toe.git
-cd hades-tic-tac-toe
+git clone https://github.com/HadesIsOff/tic-tac-toe.git
+cd tic-tac-toe
 ```
 
 ### 2. Run the Game
@@ -188,7 +186,7 @@ Created by **HadesIsOff** - feel free to contact me!
 
 **⭐ Star this repo if you enjoyed the game! ⭐**
 
-[![GitHub stars](https://img.shields.io/github/stars/HadesIsOff/hades-tic-tac-toe?style=social)](https://github.com/HadesIsOff/hades-tic-tac-toe/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/HadesIsOff/tic-tac-toe?style=social)](https://github.com/HadesIsOff/hades-tic-tac-toe/stargazers)
 
 *Made with ❤️ and JavaScript*
 
