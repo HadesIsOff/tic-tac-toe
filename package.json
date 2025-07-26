@@ -1,0 +1,47 @@
+{
+  "name": "hades-tic-tac-toe",
+  "version": "1.0.0",
+  "description": "A modern, AI-powered Tic-Tac-Toe game with personality! Features adjustable difficulty levels, sound effects, win celebrations, and a trash-talking AI opponent.",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "serve": "npx serve .",
+    "dev": "npx live-server .",
+    "lint": "echo 'No linting configured yet'",
+    "test": "echo 'No tests configured yet'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YOUR_USERNAME/hades-tic-tac-toe.git"
+  },
+  "keywords": [
+    "tic-tac-toe",
+    "game",
+    "ai",
+    "minimax",
+    "javascript",
+    "html5",
+    "css3",
+    "web-game",
+    "browser-game",
+    "artificial-intelligence",
+    "vanilla-js",
+    "responsive",
+    "sound-effects",
+    "animations"
+  ],
+  "author": "Your Name <your.email@example.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YOUR_USERNAME/hades-tic-tac-toe/issues"
+  },
+  "homepage": "https://YOUR_USERNAME.github.io/hades-tic-tac-toe/",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+} 
